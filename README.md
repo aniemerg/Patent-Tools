@@ -9,6 +9,7 @@ The "loading" scripts populate a MySQL database with the patent data. Other scri
  
 If you get any use out of these tools, I'd like to hear about it. Drop me a line at: allan.niemerg [at)] gmail.com
 
+To see these scripts in action see: http://http://www.patentsbythenumbers.com/
 
 
 Licensing
